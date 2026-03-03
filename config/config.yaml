@@ -269,8 +269,8 @@ notification:
   # 推送渠道配置
   channels:
    email:
-      from: "ginazoujin@hotmail.com"                        # 发件人邮箱地址
-      password: "@@CAINgzj"                    # 发件人邮箱密码或授权码
+      from: ""                        # 发件人邮箱地址
+      password: ""                    # 发件人邮箱密码或授权码
       to: "gina.zou@jarvismt.com"                          # 收件人邮箱，多个用逗号分隔
       smtp_server: ""                 # SMTP 服务器（可选，留空自动识别）
       smtp_port: ""                   # SMTP 端口（可选，留空自动识别）
